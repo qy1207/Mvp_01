@@ -1,0 +1,4 @@
+rootProject.name='Mvp_01'
+include ':app'
+include ':fraem'
+include ':data'
